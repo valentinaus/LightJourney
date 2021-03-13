@@ -31,6 +31,7 @@ Posteriormente se realiza la creación de los personajes
 ![doom](https://user-images.githubusercontent.com/42383401/111040093-8c610600-83ff-11eb-9255-eba515f4f47b.PNG)
 ![candle](https://user-images.githubusercontent.com/42383401/111040094-8d923300-83ff-11eb-96f1-94cf5f133735.PNG)
 
+##
 
 Para la cuarta iteración, se comenzó a producir la parte gráfica y artística del videojuego. Se empezaron a crear las ilustraciones y el arte del videojuego. Posteriormente se comenzaron a crear los modelos y se diseño el primer nivel del juego. 
 
