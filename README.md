@@ -36,7 +36,7 @@ Para la cuarta iteración, se comenzó a producir la parte gráfica y artística
 
 ## Teaser
 
-https://youtu.be/LfThMCJOd-k
+Mira el Gameplay en YouTube: https://youtu.be/LfThMCJOd-k
 
 
 
