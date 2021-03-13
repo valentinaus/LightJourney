@@ -2,6 +2,9 @@
 
 Light Journey es un videojuego plataformero 3D para PC desarrollado en Unity que cuenta la historia de un bombillo que debe salvar al mundo de la oscuridad. El personaje debe recorrer el mundo recolectando vida y energía, usar sus habilidades para escapar de los enemigos y recoger los tres CandyCandles que se esconden para ganar.
 
+## Objetivo
+ Desarrollar un videojuego a partir del documento de diseño elaborado a lo largo del semestre.
+
 ## Especificaciones
 
 - Videojuego desarrollado en Unity 2019.4.10f1.
