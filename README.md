@@ -7,7 +7,7 @@ Light Journey es un videojuego plataformero 3D para PC desarrollado en Unity que
 - Videojuego desarrollado en Unity 2019.4.10f1.
 - Personajes modelados y texturizados en Maya 2020 y Blender 2.9.0.
 
-# Proceso de creación
+## Proceso de creación
 
 
 ![primero](https://user-images.githubusercontent.com/42383401/111039815-0f815c80-83fe-11eb-8b77-ad0dc977b211.gif)
